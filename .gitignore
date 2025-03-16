@@ -1,0 +1,36 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ============ #
+# Visual Studio #
+# ============ #
+.vs/
+*.user
+*.userprefs
+
+# ========= #
+# JetBrains #
+# ========= #
+.idea/
+
+# ======== #
+# macOS     #
+# ======== #
+.DS_Store
+
+# ============ #
+# Custom files  #
+# ============ #
+*.pidb
+*.pdb
+*.mdb
+*.log
+*.tmp
