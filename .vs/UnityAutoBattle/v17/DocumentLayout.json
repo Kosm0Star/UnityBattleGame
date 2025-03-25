@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\UnityAutoBattle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|c:\\unityprojects\\unityautobattle\\assets\\_project\\scripts\\damagereductioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\damagereductioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\assets\\_project\\scripts\\poisoneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\poisoneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\assets\\_project\\scripts\\stuneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\stuneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\assets\\_project\\scripts\\ieffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\ieffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:Assets\\_Project\\Scripts\\Wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:Assets\\_Project\\Scripts\\Archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:Assets\\_Project\\Scripts\\Warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\assets\\_project\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\assets\\_project\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|C:\\UnityProjects\\UnityAutoBattle\\assets\\_project\\scripts\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3214F7D4-786F-5F3D-61DF-C41E76C9D69F}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\BattleManager.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\BattleManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:28:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Character.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Character.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Character.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwIEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:14:48.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:51:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Warrior.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Warrior.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Warrior.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:40:34.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Archer.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Archer.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Archer.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:40:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Wizard.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Wizard.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\Wizard.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Wizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:40:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEffect.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\IEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\IEffect.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\IEffect.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\IEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:24:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StunEffect.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\StunEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\StunEffect.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\StunEffect.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\StunEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:44:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoisonEffect.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\PoisonEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\PoisonEffect.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\PoisonEffect.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\PoisonEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:50:06.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DamageReductionEffect.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\DamageReductionEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\DamageReductionEffect.cs",
+              "ToolTip": "C:\\UnityProjects\\UnityAutoBattle\\Assets\\_Project\\Scripts\\DamageReductionEffect.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\DamageReductionEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:45:50.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

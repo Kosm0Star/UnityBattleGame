@@ -1,0 +1,35 @@
+# =============== Unity Generated Files ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =============== Visual Studio / Rider ===============
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.user
+*.unityproj
+
+# =============== macOS Metadata ===============
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =============== Windows Metadata ===============
+Thumbs.db
+desktop.ini
+
+# =============== Asset Store Packages ===============
+Packages/manifest.json
+Packages/packages-lock.json
+Packages/com.unity.*
+
+# =============== Optional: Ignore Build Artifacts ===============
+*.apk
+*.aab
+*.unitypackage
