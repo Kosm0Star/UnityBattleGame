@@ -1127,9 +1127,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 80
-  _initialHealth: 0
-  _attack: 0
-  _characterName: 
+  _initialHealth: 80
+  _attack: 20
+  _characterName: Carl
   _debuffChance: 0.3
   _debuffDuration: 4
   _damageReductionPercentage: 0.5
@@ -1179,9 +1179,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
-  _initialHealth: 0
-  _attack: 0
-  _characterName: 
+  _initialHealth: 100
+  _attack: 15
+  _characterName: Traxes
   _poisonChance: 0.3
   _poisonDuration: 3
   _poisonDamagePerTick: 5
@@ -1364,9 +1364,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 150
-  _initialHealth: 0
-  _attack: 0
-  _characterName: 
+  _initialHealth: 250
+  _attack: 20
+  _characterName: Axe
   _stunChance: 0.2
   _stunDuration: 2
 --- !u!4 &1492094562
